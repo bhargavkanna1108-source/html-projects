@@ -1,0 +1,15 @@
+class sample:
+    """data"""
+    a,b,c=10,20,30
+    def display(self)
+        print("this is the sample")
+    class sample2(sample)
+    """data"""
+    x,y,z=10,20,30
+    def display(self)
+        print("this is from sample")
+    s1=sample()
+    s1.a,s1.b,s1.c=100,200,300
+    s1=sample()
+    s2.display()
+    s2.display()
